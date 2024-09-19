@@ -1,6 +1,7 @@
 ﻿using System;
 using Classes;
 ﻿using YoutubeExplode;
+﻿using SpotifyAPI.Web;
 
 class Program
 {
