@@ -1,6 +1,5 @@
 ﻿using SpotifyAPI.Web;
-using YoutubeExp
-    lode;
+using YoutubeExplode;
 using System.Threading.Tasks;
 
 namespace Classes
